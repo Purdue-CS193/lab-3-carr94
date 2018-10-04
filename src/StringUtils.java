@@ -1,4 +1,5 @@
 public class StringUtils {
+    //for step 4
     /**
      * makePurdueUsername -- <= 8-letter-long lowercase username creator
      * Usernames may be AT MOST 8 letters in length, and should
